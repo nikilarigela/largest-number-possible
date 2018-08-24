@@ -1,0 +1,15 @@
+{
+  "name": "largest-number-possible",
+  "version": "1.0.8",
+  "description": "This package returns the largest number possible from array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "largest",
+    "possible"
+  ],
+  "author": "nikilarigela0110 <nikil.arigela@gmail.com> (nikilarigela.github.io)",
+  "license": "ISC"
+}
